@@ -1,0 +1,51 @@
+b_id,b_name,b_sales,author_id
+1,The Great Gatsby,5000000,1
+2,To Kill a Mockingbird,4500000,2
+3,Harry Potter and the Sorcerer's Stone,12000000,3
+4,1984,8000000,4
+5,Pride and Prejudice,6000000,5
+6,The Catcher in the Rye,3500000,6
+7,The Hobbit,7000000,7
+8,The Lord of the Rings: The Fellowship of the Ring,9000000,7
+9,One Hundred Years of Solitude,3000000,8
+10,Brave New World,4000000,9
+11,The Grapes of Wrath,2000000,10
+12,Crime and Punishment,1500000,11
+13,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",5500000,12
+14,The Alchemist,10000000,13
+15,The Picture of Dorian Gray,2500000,14
+16,Jane Eyre,3000000,15
+17,Anna Karenina,1800000,16
+18,The Count of Monte Cristo,4000000,17
+19,The Little Prince,7000000,18
+20,A Tale of Two Cities,2200000,19
+21,The Brothers Karamazov,1200000,20
+22,The Old Man and the Sea,3000000,21
+23,Gone with the Wind,5000000,22
+24,The Scarlet Letter,1500000,23
+25,The Iliad,800000,24
+26,Les Misérables,2500000,25
+27,The Road Less Traveled,3000000,26
+28,The Stand,2000000,27
+29,Fahrenheit 451,3500000,28
+30,The Hitchhiker's Guide to the Galaxy,4000000,29
+31,The Art of War,6000000,30
+32,The Secret Garden,3000000,31
+33,The Shining,3500000,32
+34,The Outsiders,2000000,33
+35,East of Eden,2500000,34
+36,A Clockwork Orange,1500000,35
+37,The Princess Bride,2800000,36
+38,The Girl with the Dragon Tattoo,4000000,37
+39,The Help,3500000,38
+40,Dracula,2200000,39
+41,The Fault in Our Stars,4500000,40
+42,The Martian,3000000,41
+43,Dune,3500000,42
+44,The Sun Also Rises,1800000,43
+45,The Color Purple,2500000,44
+46,The Bell Jar,1200000,45
+47,The Immortal Life of Henrietta Lacks,3000000,46
+48,The Road to Serfdom,1800000,47
+49,A Man Called Ove,2000000,48
+50,Where the Crawdads Sing,5000000,49
