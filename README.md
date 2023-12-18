@@ -1,4 +1,7 @@
 # Book
+
+following is the ER diagram of the Database: ![image](https://github.com/vidit111/Book_streaming_sql/assets/140490594/2e6089f6-7660-48de-a79a-4f9585e1e9ed)
+
 the following repository features a virtual library that i created to understand the data flow of a streaming service, the has a MySQL data base about books, it contains Book titles and other details, the Python codes generate fake users, user book reads, sql triggers and stored procedures make a book ranking table and a no ml recommendation engine
 
 File descriptions:
