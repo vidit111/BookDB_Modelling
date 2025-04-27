@@ -1,5 +1,7 @@
 Book Streaming Database and Recommendation System: Data Modelling and DataBase planning
 
+following is the ER diagram of the Database: ![image](https://github.com/vidit111/Book_streaming_sql/assets/140490594/2e6089f6-7660-48de-a79a-4f9585e1e9ed)
+
 This project builds a complete Book Streaming Database system in MySQL and simulates a real-time recommendation engine.
 It includes database creation, dynamic data insertion, fake user activity generation, cover image fetching, and a genre-based recommendation model — mimicking the backend operations of a real-world book streaming service.
 
